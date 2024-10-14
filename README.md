@@ -4,4 +4,4 @@
 
 # Build Status
 
-[![build](https://github.com/Cuyeshi/RPBDIS_LibraryDB/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/Cuyeshi/RPBDIS_LibraryDB/actions/workflows/blank.yml)
+[![build](https://github.com/Cuyeshi/RPBDIS_LibraryDB/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/Cuyeshi/RPBDIS_LibraryDB/actions/workflows/build.yml)
